@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ebadatdoost
 - 👀 I’m interested in mechine learning
-- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on back-end
 - 📫 How to reach me: email: ebdtsa@gmail.com
 - 😄 Pronouns: ...
